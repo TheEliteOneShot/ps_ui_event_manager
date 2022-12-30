@@ -52,7 +52,7 @@ class EventManager {
         }
 
         if ($this.events[$i].DoMoveMouse -eq $true) {
-            Write-Host "Moving the mouse to coordinates X: " $this.events[$i].MouseMoveX " Y: " $this.events[$i].MouseMoveX
+            Write-Host "Moving the mouse to coordinates X: " $this.events[$i].MouseMoveX " Y: " $this.events[$i].MouseMoveY
         }
 
         if ($this.events[$i].DoMouseClick -eq $true) {
