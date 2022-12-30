@@ -96,8 +96,8 @@ $TimeToWaitSecondsBeforeEvent = 1
 $TimeToWaitSecondsAfterEvent = 1
 $DoMoveMouse = $true
 $DoMouseClick = $true
-$MouseMoveX = 50
-$MouseMoveY = 100
+$MouseMoveX = 250
+$MouseMoveY = 1000
 $DoAddTextToClickPosition = $true
 $TextToAddToClickPosition = "Next text to add"
 
